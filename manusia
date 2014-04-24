@@ -1,0 +1,5 @@
+public class manusia{
+  public manusia(){
+    system.out.println("selamat datang manusia");
+  }
+}
